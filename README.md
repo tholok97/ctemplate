@@ -13,5 +13,5 @@
 
 ## Dependencies
 
-* gcc is used as the compiler. If you prefer something else this could easily be achieved by changing the CC variable in the makefile.
-* The `make tidy` command uses clang and clang-tidy.
+* gcc is used as the compiler. If you prefer something else this can easily be achieved by changing the CC variable in the makefile.
+* The `make tidy` target uses clang and clang-tidy.
