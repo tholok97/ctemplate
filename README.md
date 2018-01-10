@@ -1,4 +1,8 @@
-# Template C++ project
+# Template C project
+
+## Introduction
+
+*Coming*
 
 ## File structure
 
